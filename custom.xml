@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project path="frameworks/base" name="GT3CH1/android_frameworks_base" groups="pdk-cw-fs,pdk-fs" />
+    <project path="lineage-sdk" name="GT3CH1/android_lineage-sdk" />
+    <project path="packages/apps/LineageParts" name="GT3CH1/android_packages_apps_LineageParts" />
+    <project path="packages/apps/Settings" name="GT3CH1/android_packages_apps_Settings" />
+</manifest>
